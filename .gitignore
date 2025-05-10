@@ -1,0 +1,26 @@
+# Dependencies
+/node_modules/
+/.pnp
+.pnp.js
+
+# Next.js
+/.next/
+/out/
+.next/cache/
+
+# Environnement
+.env*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+
+# Système
+.DS_Store
+Thumbs.db

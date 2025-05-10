@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "code": "0xA1B2C3D4E5F6",
+    "task": "Decrypt this address using 3 steps or less.",
+    "tools": ["zk-rollup", "data-bridge"],
+    "solution": "Valid Transaction",
+    "energy": 100,
+    "edgens": 50,
+    "message": "LayerEdge: Unlocking blockchain efficiency."
+  },
+  {
+    "id": 2,
+    "code": "TX:789XYZ",
+    "task": "Optimize this transaction in 2 steps.",
+    "tools": ["optimistic-rollup", "zk-rollup"],
+    "solution": "Low-Cost Validation",
+    "energy": 150,
+    "edgens": 100,
+    "message": "LayerEdge: Scalability without compromise."
+  },
+  {
+    "id": 3,
+    "code": "0xF7E8D9C0B1A2",
+    "task": "Verify this address in 4 steps or less.",
+    "tools": ["zk-rollup", "data-bridge"],
+    "solution": "Secure Address",
+    "energy": 120,
+    "edgens": 60,
+    "message": "LayerEdge: Secure transactions, every time."
+  },
+  {
+    "id": 4,
+    "code": "BLOCK:456DEF",
+    "task": "Process this block in 3 steps.",
+    "tools": ["optimistic-rollup", "data-bridge"],
+    "solution": "Fast Block",
+    "energy": 130,
+    "edgens": 80,
+    "message": "LayerEdge: Faster blocks, lower costs."
+  },
+  {
+    "id": 5,
+    "code": "0x1234ABCD5678",
+    "task": "Decrypt this contract address in 5 steps.",
+    "tools": ["zk-rollup", "optimistic-rollup"],
+    "solution": "Smart Contract",
+    "energy": 140,
+    "edgens": 90,
+    "message": "LayerEdge: Powering smart contracts."
+  },
+  {
+    "id": 6,
+    "code": "TX:9012GHI",
+    "task": "Optimize this transaction in 2 steps.",
+    "tools": ["data-bridge", "zk-rollup"],
+    "solution": "Efficient Transaction",
+    "energy": 110,
+    "edgens": 70,
+    "message": "LayerEdge: Efficiency at its core."
+  },
+  {
+    "id": 7,
+    "code": "0xB9C8D7E6F5A4",
+    "task": "Unlock this address in 4 steps or less.",
+    "tools": ["optimistic-rollup", "data-bridge"],
+    "solution": "Verified Address",
+    "energy": 150,
+    "edgens": 100,
+    "message": "LayerEdge: Trust in every transaction."
+  },
+  {
+    "id": 8,
+    "code": "BLOCK:789JKL",
+    "task": "Validate this block in 3 steps.",
+    "tools": ["zk-rollup", "optimistic-rollup"],
+    "solution": "Validated Block",
+    "energy": 160,
+    "edgens": 110,
+    "message": "LayerEdge: Validation made simple."
+  },
+  {
+    "id": 9,
+    "code": "0x5A6B7C8D9E0F",
+    "task": "Decrypt this address in 5 steps.",
+    "tools": ["data-bridge", "zk-rollup"],
+    "solution": "Secure Transaction",
+    "energy": 170,
+    "edgens": 120,
+    "message": "LayerEdge: Security meets speed."
+  },
+  {
+    "id": 10,
+    "code": "TX:234MNO",
+    "task": "Process this transaction in 2 steps.",
+    "tools": ["optimistic-rollup", "data-bridge"],
+    "solution": "Optimized Transaction",
+    "energy": 130,
+    "edgens": 90,
+    "message": "LayerEdge: Optimize your blockchain."
+  },
+  {
+    "id": 11,
+    "code": "0x1F2E3D4C5B6A",
+    "task": "Verify this contract in 4 steps.",
+    "tools": ["zk-rollup", "optimistic-rollup"],
+    "solution": "Contract Verified",
+    "energy": 180,
+    "edgens": 130,
+    "message": "LayerEdge: Contracts, simplified."
+  },
+  {
+    "id": 12,
+    "code": "BLOCK:567PQR",
+    "task": "Unlock this block in 3 steps.",
+    "tools": ["data-bridge", "zk-rollup"],
+    "solution": "Unlocked Block",
+    "energy": 140,
+    "edgens": 100,
+    "message": "LayerEdge: Unlocking the future."
+  },
+  {
+    "id": 13,
+    "code": "0x7B8C9D0E1F2A",
+    "task": "Decrypt this address in 5 steps or less.",
+    "tools": ["optimistic-rollup", "data-bridge"],
+    "solution": "Valid Address",
+    "energy": 190,
+    "edgens": 140,
+    "message": "LayerEdge: Your blockchain, optimized."
+  },
+  {
+    "id": 14,
+    "code": "TX:890STU",
+    "task": "Optimize this transaction in 2 steps.",
+    "tools": ["zk-rollup", "optimistic-rollup"],
+    "solution": "Low-Fee Transaction",
+    "energy": 150,
+    "edgens": 110,
+    "message": "LayerEdge: Low fees, high speed."
+  },
+  {
+    "id": 15,
+    "code": "0x3A4B5C6D7E8F",
+    "task": "Unlock this contract in 4 steps.",
+    "tools": ["data-bridge", "zk-rollup"],
+    "solution": "Contract Unlocked",
+    "energy": 200,
+    "edgens": 150,
+    "message": "LayerEdge: Powering the future."
+  },
+  {
+    "id": 16,
+    "code": "BLOCK:123VWX",
+    "task": "Process this block in 3 steps.",
+    "tools": ["optimistic-rollup", "data-bridge"],
+    "solution": "Processed Block",
+    "energy": 160,
+    "edgens": 120,
+    "message": "LayerEdge: Blocks, redefined."
+  },
+  {
+    "id": 17,
+    "code": "0x9F0E1D2C3B4A",
+    "task": "Decrypt this address in 5 steps.",
+    "tools": ["zk-rollup", "optimistic-rollup"],
+    "solution": "Secure Address",
+    "energy": 210,
+    "edgens": 160,
+    "message": "LayerEdge: Security at scale."
+  },
+  {
+    "id": 18,
+    "code": "TX:456YZA",
+    "task": "Validate this transaction in 2 steps.",
+    "tools": ["data-bridge", "zk-rollup"],
+    "solution": "Validated Transaction",
+    "energy": 170,
+    "edgens": 130,
+    "message": "LayerEdge: Validate with ease."
+  },
+  {
+    "id": 19,
+    "code": "0x5B6C7D8E9F0A",
+    "task": "Unlock this contract in 4 steps or less.",
+    "tools": ["optimistic-rollup", "data-bridge"],
+    "solution": "Contract Access",
+    "energy": 220,
+    "edgens": 170,
+    "message": "LayerEdge: Access the blockchain."
+  },
+  {
+    "id": 20,
+    "code": "BLOCK:789BCD",
+    "task": "Decrypt this block in 3 steps.",
+    "tools": ["zk-rollup", "optimistic-rollup"],
+    "solution": "Decrypted Block",
+    "energy": 180,
+    "edgens": 140,
+    "message": "LayerEdge: Decrypt the future."
+  },
+  {
+    "id": 21,
+    "code": "0x1A2B3C4D5E6F",
+    "task": "Verify this address in 5 steps.",
+    "tools": ["data-bridge", "zk-rollup"],
+    "solution": "Verified Transaction",
+    "energy": 230,
+    "edgens": 180,
+    "message": "LayerEdge: Trust, verified."
+  },
+  {
+    "id": 22,
+    "code": "TX:012EFG",
+    "task": "Optimize this transaction in 2 steps.",
+    "tools": ["optimistic-rollup", "data-bridge"],
+    "solution": "Optimized Validation",
+    "energy": 190,
+    "edgens": 150,
+    "message": "LayerEdge: The ultimate blockchain solution."
+  }
+]
