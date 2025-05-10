@@ -127,10 +127,12 @@ export default function Home() {
           <button className="start-button" onClick={() => setShowIntro(false)}>
             Start Hacking
           </button>
-        </div>
         <div className="footer">
-          Developed by Karol
-        </div>
+        Developed by Karol |{' '}
+        <a href="https://twitter.com/iveobod" target="_blank" rel="noopener noreferrer">
+          Twitter
+        </a>
+      </div>
       </div>
     );
   }
@@ -158,7 +160,10 @@ export default function Home() {
           </button>
         </div>
         <div className="footer">
-          Developed by Karol
+        Developed by Karol |{' '}
+        <a href="https://twitter.com/iveobod" target="_blank" rel="noopener noreferrer">
+          Twitter
+        </a>
         </div>
       </div>
     );
@@ -202,7 +207,10 @@ export default function Home() {
         <div className="message">{currentPuzzle.message}</div>
       </div>
       <div className="footer">
-        Developed by Karol
+        Developed by Karol |{' '}
+        <a href="https://twitter.com/iveobod" target="_blank" rel="noopener noreferrer">
+          Twitter
+        </a>
       </div>
     </div>
   );
