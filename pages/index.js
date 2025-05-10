@@ -127,12 +127,13 @@ export default function Home() {
           <button className="start-button" onClick={() => setShowIntro(false)}>
             Start Hacking
           </button>
+        </div>
         <div className="footer">
-        Developed by Karol |{' '}
-        <a href="https://twitter.com/iveobod" target="_blank" rel="noopener noreferrer">
-          Twitter
-        </a>
-      </div>
+          Developed by Karol |{' '}
+          <a href="https://x.com/iveobod" target="_blank" rel="noopener noreferrer">
+            X
+          </a>
+        </div>
       </div>
     );
   }
@@ -152,7 +153,7 @@ export default function Home() {
           <button
             onClick={() =>
               window.open(
-                `https://twitter.com/intent/tweet?text=I scored ${score} Edgens in LayerEdge Codebreaker! Join the elite: ${window.location.href} #LayerEdge`
+                `https://x.com/intent/tweet?text=I scored ${score} Edgens in LayerEdge Codebreaker! Join the elite: ${window.location.href} #LayerEdge @iveobod`
               )
             }
           >
@@ -160,10 +161,10 @@ export default function Home() {
           </button>
         </div>
         <div className="footer">
-        Developed by Karol |{' '}
-        <a href="https://twitter.com/iveobod" target="_blank" rel="noopener noreferrer">
-          Twitter
-        </a>
+          Developed by Karol |{' '}
+          <a href="https://x.com/iveobod" target="_blank" rel="noopener noreferrer">
+            X
+          </a>
         </div>
       </div>
     );
@@ -208,8 +209,8 @@ export default function Home() {
       </div>
       <div className="footer">
         Developed by Karol |{' '}
-        <a href="https://twitter.com/iveobod" target="_blank" rel="noopener noreferrer">
-          Twitter
+        <a href="https://x.com/iveobod" target="_blank" rel="noopener noreferrer">
+          X
         </a>
       </div>
     </div>
